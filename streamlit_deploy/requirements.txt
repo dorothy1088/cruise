@@ -1,0 +1,8 @@
+# Tested version combination from the original project where available.
+# Python 3.12 recommended for Streamlit Community Cloud.
+streamlit==1.66.1
+pandas==2.2.3
+numpy==2.3.5
+plotly==6.5.2
+statsmodels==0.15.0
+scipy>=1.13,<2.0
